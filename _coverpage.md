@@ -1,12 +1,12 @@
 <!-- _coverpage.md -->
-<!-- 首页的封面 -->
-<!-- _coverpage.md -->
+<!-- 封面 -->
 
-![logo](https://throwable-blog-1256189093.cos.ap-guangzhou.myqcloud.com/202009/_media/icon.svg)
+![网站域名](./assets/cvtutorials.png)
 
-<!-- # docsify <small>3.5</small> -->
+# csdn: 机器视觉全栈er
+# http://www.cvtutorials.com
 
-> csdn: 机器视觉全栈er
+[点我直达csdn](https://blog.csdn.net/qq_42322191)
 
 - 简介：专注于机器视觉领域
 - 编程语言: python, js, C++
@@ -17,6 +17,3 @@
 - 边缘: jetson系列
 - 智能视频处理：deepstream, dl-stream
 - 其他(仅限简单使用): XR, 语音识别
-
-[个人网站](http://cvtutorials.com)
-[开始]('/')
